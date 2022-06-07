@@ -14,4 +14,3 @@ When I'm not coding or playing games 🤓, I enjoy spending time in nature 🌲.
 - 🌱 I’m currently learning Javascript, Sass, CSS, HTML - particularly on accessability.
 - 🤔 I’m looking for help with Javascript and CSS frameworks.
 - 💬 Let's talk about CSS and UX.
-- 📫 How to reach me: 📧@ truls.haakenstad@outlook.com
