@@ -1,16 +1,43 @@
-### Hello there ☀️
+# Truls Haakenstad | Menubrea
 
-### About me 🇳🇴
-I'm currently studying Frontend Development at Noroff school of technology and digital media, graduating June 23'.
-I'm particularly interested in UX and design, and delving deeper into CSS and UX have quickly become a hobby of mine since I began my studies. 
+## About 
+Recently graduated Front-end developer from Noroff school of technology and digital media. Proficient in web-languages, SEO, as well as accessability principles and solutions. 
 
-- 👍 Good user experiences and clean design
-- 👎 Overly animated pages at the expense of UX and accessability.
+I believe UX should be in the forefront of all app development, and that the best user experiences are those that require the least amount of effort to interact with. Only show what the user need to see, only tell what the user needs to know.
 
-When I'm not coding or playing games 🤓, I enjoy spending time in nature 🌲. Fishing and paddling being my favourite hobbies. I would one day like to run my own Homestead.
+## Languages
+- `HTML`
+- `CSS`
+- `SASS`
+- `Javascript`
 
-### Addendum
-- 🔭 I’m currently working on updating my school projects with updated code and features based on what I've learned so far during my studies at Noroff.
-- 🌱 I’m currently learning Javascript, Sass, CSS, HTML - particularly on accessability.
-- 🤔 I’m looking for help with Javascript and CSS frameworks.
-- 💬 Let's talk about CSS and UX.
+### Learning
+- `Typescript`
+
+## Technologies
+- `Node`
+- `Git`
+
+### CSS Frameworks / UI Libraries
+- `Bootstrap`
+- `Tailwind`
+- `MUI`
+- `styled-components`
+
+### JS/Front-end Frameworks
+- `React`
+- `Next.js`
+- `Svelte`
+
+### Learning
+- `Typescript`
+- `Prisma`
+- `tRPC`
+- `Express`
+- `PostgreSQL`
+
+## Favourite stacks
+- `MUI`
+- `Sass`
+- `Svelte`
+
